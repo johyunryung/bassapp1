@@ -12,7 +12,7 @@
         android:id="@+id/toastButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/clickme" />
+        android:text="버튼입니다"/>
 
     <CheckBox
         android:id="@+id/checkbox1"

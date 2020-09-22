@@ -37,4 +37,3 @@ public class javaMainActivity2 extends AppCompatActivity implements View.OnClick
         }
     }
 }
-}
